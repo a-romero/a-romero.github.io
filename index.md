@@ -1,6 +1,6 @@
 # Wine Reviews
 
-## Melody Pouilly-Fume (Loire Valley)
+## Melody (Pouilly-Fume, Loire Valley)
 
 ## Villa Maria (Marlborough)
 
