@@ -1,6 +1,6 @@
 
 # Melody Pouilly-Fume
-![image](images/Melody-Pouilly-Fume.jpeg)
+<img src="images/Melody-Pouilly-Fume.jpeg" alt="drawing" style="width:250px;"/>
 
 ## 🍷 Wine Profile
 
