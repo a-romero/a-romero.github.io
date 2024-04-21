@@ -1,4 +1,4 @@
-# Villa Maria Marlborough
+# Chateau Tour Haut-Cassan (Medoc)
 <img src="images/Chateau-Tour-Haut-Cassan-Medoc.jpeg" alt="drawing" style="width:250px;"/>
 
 ## 🍷 Wine Profile
