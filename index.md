@@ -1,10 +1,15 @@
-# Wine Reviews
+# White
 
-## Melody (Pouilly-Fume, Loire Valley)
+## France
 [Melody, Poully-Foume](wines/Melody-Pouilly-Fume.md)
 
-## Villa Maria (Marlborough)
+## New Zealand
+[Villa Maria, Marlborough](wines/Villa-Maria-Marlborough.md)
 
-## Chateau Tour Haut-Caussan (Medoc)
+# Red
 
-## Vik A (Cachapoal Valley)
+## France
+[Chateau Tour Haut-Caussan, Medoc](wines/Chateau-Tour-Haut-Caussan-Medoc.md)
+
+## Chile
+[Vik A, Cachapoal Valley](wines/VikA-Cachapoal.md)
