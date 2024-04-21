@@ -1,5 +1,5 @@
-# Chateau Tour Haut-Cassan (Medoc)
-<img src="images/Chateau-Tour-Haut-Cassan-Medoc.jpeg" alt="drawing" style="width:250px;"/>
+# Chateau Tour Haut-Caussan (Medoc)
+<img src="images/Chateau-Tour-Haut-Caussan-Medoc.jpeg" alt="drawing" style="width:250px;"/>
 
 ## 🍷 Wine Profile
 
