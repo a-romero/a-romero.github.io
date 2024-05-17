@@ -13,13 +13,13 @@
 
 | Type          | Grapes                    | Alcohol (ABV)  |
 |---------------|---------------------------|----------------|
-| `Red`         | `Cabernet Sauvignon`      | `ABV %`        |
+| `Red`         | `Cabernet Sauvignon`      | `ABV 14%`        |
 
 ### 🎨 Appearance
 
-| Intensity     | Colour                    |
-|---------------|---------------------------|
-| `Pale`🔹🔹🔹💠`Deep`   | `Ruby`        |
+| Intensity            | Colour                    |
+|----------------------|---------------------------|
+| `Pale`🔹🔹🔹💠`Deep` | `Ruby`                    |
 
 ### 👃 Nose
 
@@ -31,24 +31,31 @@
 |---------------------------|
 | 🍇 `Blackcurrant`         |
 | 🔵 `Blackberry`           |
+| 🌿 `Mint`                 |
 
 ### 👅 Palate
 
 | Acidity               | Tannin              | Body                |
 |-----------------------|---------------------|---------------------|
-| `Low`🔹🔹💠🔸`High`   | `Low`🔹🔹💠🔸`High`|`Light`🔹🔹🔹💠`Full`|
+| `Low`🔹🔹🔹💠`High`   | `Low`🔹🔹🔹💠`High`|`Light`🔹🔹🔹💠`Full`|
 
 | Sweetness                 |
 |---------------------------|
-| `Dry`🔹💠🔸🔸 `Sweet`|
+| `Dry`💠🔸🔸🔸 `Sweet`     |
 
 | Aromas                    |
 |---------------------------|
 | 🍇 `Blackcurrant`         |
 | 🔵 `Blackberry`           |
+| 🔴 `Plum`                 | 
+| 🌿 `Mint`                 |
+| ⚫ `Black pepper`         |
+| 🚬 `Tobacco`              |
+| 🍂 `Cinnamon`             |
 | 🐐 `Leather`              |
-| 🍂 `Earthy`               |
-| ✏️ `Graphite`             |
+| 🍄 `Earthy`               |
+| 🔥 `Smoke`                |
+
 
 ### 🏆 Conclusions
 
