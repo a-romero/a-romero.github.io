@@ -17,9 +17,9 @@
 
 ### 🎨 Appearance
 
-| Intensity     | Colour                    |
-|---------------|---------------------------|
-| `Pale`🔹🔹💠🔸`Deep`   | `Ruby`        |
+| Intensity             | Colour                    |
+|-----------------------|---------------------------|
+| `Pale`🔹🔹💠🔸`Deep`  | `Ruby`                    |
 
 ### 👃 Nose
 
@@ -36,20 +36,21 @@
 
 | Acidity               | Tannin              | Body                |
 |-----------------------|---------------------|---------------------|
-| `Low`🔹🔹💠🔸`High`   | `Low`🔹🔹💠🔸`High`|`Light`🔹🔹🔹💠`Full`|
+| `Low`🔹🔹🔹💠`High`   | `Low`🔹🔹💠🔸`High`|`Light`🔹🔹🔹💠`Full`|
 
 | Sweetness                 |
 |---------------------------|
-| `Dry`🔹💠🔸🔸 `Sweet`|
+| `Dry`💠🔸🔸🔸 `Sweet`|
 
 | Aromas                    |
 |---------------------------|
 | 🍇 `Blackcurrant`         |
 | 🔵 `Blackberry`           |
-| 🐐 `Leather`              |
+| 🐂 `Leather`              |
 | 🍂 `Earthy`               |
 | ✏️ `Graphite`             |
+| 🍛 `Spice(pepper,vanilla` |
 
 ### 🏆 Conclusions
 
-**Quality Level:** `Very Good`
+**Quality Level:** `Good`
