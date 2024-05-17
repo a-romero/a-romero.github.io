@@ -13,7 +13,7 @@
 
 | Type          | Grapes                          | Alcohol (ABV)  |
 |---------------|---------------------------------|----------------|
-| `Red`         | `Cabernet Sauvignon`<br>`Merlot`| `13%`          |
+| `Red`         | `Cabernet Sauvignon`<br>`Merlot`| `ABV 13.5%`    |
 
 ### 🎨 Appearance
 
@@ -46,10 +46,11 @@
 |---------------------------|
 | 🍇 `Blackcurrant`         |
 | 🔵 `Blackberry`           |
+| ⚫ `Black pepper`         |
+| 🍂 `Vanilla`              |
 | 🐂 `Leather`              |
-| 🍂 `Earthy`               |
+| 🍄 `Earthy`               |
 | ✏️ `Graphite`             |
-| 🍛 `Spice(pepper,vanilla` |
 
 ### 🏆 Conclusions
 
